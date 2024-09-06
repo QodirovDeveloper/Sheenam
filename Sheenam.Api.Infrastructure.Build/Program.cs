@@ -3,6 +3,7 @@
 // Free To Use Comfort And Peace
 //==================================================
 
+using ADotNet;
 using ADotNet.Clients;
 using ADotNet.Models.Pipelines.GithubPipelines.DotNets;
 using ADotNet.Models.Pipelines.GithubPipelines.DotNets.Tasks;
